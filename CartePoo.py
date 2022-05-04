@@ -37,7 +37,7 @@ class Cartes:
            
 def main():
     c1=Cartes()
-    c2=Cartes()   
+    c2=Cartes() 
 
     c1.melanger_cartes
     c2.melanger_cartes
